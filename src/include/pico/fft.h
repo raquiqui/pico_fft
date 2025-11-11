@@ -11,7 +11,7 @@
 
 #define CLOCK_DIV 1088
 #define FSAMP 44100
-#define CAPTURE_CHANNEL 0
+#define CAPTURE_CHANNEL 2
 #define NSAMP 1000
 
 typedef struct {
